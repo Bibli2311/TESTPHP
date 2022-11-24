@@ -1,5 +1,5 @@
 <?php
 
-echo "Test";
+shell_exec("ls");
 
 ?>
